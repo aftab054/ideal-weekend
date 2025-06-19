@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Ideal Weekend</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+
+  <h1>My Ideal Weekend</h1>
+  <img src="https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1606/wavebreakmediamicro160609479/58397454-profile-view-of-hipster-man-using-tablet-at-cafe-while-sipping-cup-of-coffee.jpg">
+  <h2>Morning</h2>
+  <p>Wake up without an alarm, sip coffee on the balcony, and listen to soft music or read something light.</p>
+
+  <h2>Afternoon</h2>
+  <p>Head outdoors for a walk or a casual lunch with friends. Maybe explore a new place or watch a good movie.</p>
+
+  <h2>Evening</h2>
+  <p>Relax at home, cook something tasty, and watch a cozy series or reflect on the day before bed.</p>
+</body>
+</html>
+
+
+
+body {
+  background: #fefefe;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: left;
+  padding: 30px;
+  color: #FF0000;
+  margin: 0;
+}
+
+img {
+  width: 240px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  color: #3e2723;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+  color: #5d4037;
+}
+
+p {
+  font-size: 16px;
+  margin: 10px 0 18px;
+}
